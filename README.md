@@ -76,7 +76,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,powershell,git,github,netlify" />
 
-<br><br>
+<br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=lightroom,photoshop,oracle,pandas,numpy,nvidia,steam,meta" />
 
@@ -106,11 +106,11 @@
 
 <img src="https://github-readme-stats.shion.dev/api?username=Manish-kumar-Mandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com/?user=Manish-kumar-Mandal&theme=dark&hide_border=false" />
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Manish-kumar-Mandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
