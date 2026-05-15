@@ -4,9 +4,6 @@
 </p>
 
 <!-- ANIMATED CODING GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Manish Kumar Mandal</h1>
 <h3 align="center">Web Developer | Computer Science Student | Tech Enthusiast</h3>
@@ -25,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🚀 Turning ideas into interactive websites  
 - 💻 Passionate about Frontend Development & UI Design  
