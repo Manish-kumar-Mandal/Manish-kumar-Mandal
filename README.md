@@ -25,9 +25,7 @@
 
 ## 🚀 About Me
 
-
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-<br>
 
 - 🚀 Turning ideas into interactive websites  
 - 💻 Passionate about Frontend Development & UI Design  
@@ -38,11 +36,12 @@
 - 💬 Ask me about HTML, CSS, GitHub & Web Design  
 - ☕ Debugging by day, designing by night  
 - 📫 Reach me at: **manishkumarmandal0021@gmail.com**
+
+<br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 </p>
-
-<br>
 
 ---
 
@@ -50,24 +49,24 @@
 
 <p align="center">
 
-<a href="https://github.com/Manish-Kumar-Mandal" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://github.com/Manish-Kumar-Mandal" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://instagram.com/codewithmanishkr" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+<a href="https://instagram.com/codewithmanishkr" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/MANISH KUMAR MANDAL"target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://www.linkedin.com/in/manish-kumar-mandal-76437239b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:manishkumarmandal0021@gmail.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+<a href="mailto:manishkumarmandal0021@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://youtube.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=youtube" height="45" />
+<a href="https://youtube.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=youtube" height="45"/>
 </a>
 
 </p>
