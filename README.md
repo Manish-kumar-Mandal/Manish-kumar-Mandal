@@ -1,21 +1,166 @@
-# 💫 About Me:
-🚀 Turning ideas into interactive websites  <br>💻 Passionate about Frontend Development & UI Design  <br>🌱 Currently working on web development <br>⚡ Building projects that look clean on every screen  <br>🤝 Open to collaborate on creative web projects  <br>🎯 Goal: Become a Full Stack Developer  <br>💬 Ask me about HTML, CSS, GitHub & Web Design  <br>☕ Debugging by day, designing by night<br>📫 Reach me at: manishkumarmandal0021@gmail.com
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=Manish%20Kumar%20Mandal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Computer%20Science%20Student&descAlignY=55" />
+</p>
 
+<!-- ANIMATED CODING GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manish_kumar0021) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/codewithmanishkr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-mandal-76437239b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkumarmandal0021@gmail.com) 
+<h1 align="center">Hi 👋, I'm Manish Kumar Mandal</h1>
+<h3 align="center">Web Developer | Computer Science Student | Tech Enthusiast</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Manish-kumar-Mandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Manish-kumar-Mandal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manish-kumar-Mandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Web+Developer;Computer+Science+Student;Frontend+Designer;Building+Creative+Websites;Always+Learning+New+Things;Open+Source+Enthusiast" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manish-kumar-Mandal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ANIMATED LINE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750547-0347b4d7-2cc0-4e7d-bd8f-4f1d8d7f0d84.gif" width="100%">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Manish-kumar-Mandal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
 
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<br>
+
+- 🚀 Turning ideas into interactive websites  
+- 💻 Passionate about Frontend Development & UI Design  
+- 🌱 Currently working on web development  
+- ⚡ Building projects that look clean on every screen  
+- 🤝 Open to collaborate on creative web projects  
+- 🎯 Goal: Become a Full Stack Developer  
+- 💬 Ask me about HTML, CSS, GitHub & Web Design  
+- ☕ Debugging by day, designing by night  
+- 📫 Reach me at: **manishkumarmandal0021@gmail.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+</p>
+
+<br>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Manish-Kumar-Mandal" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://instagram.com/codewithmanishkr" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://linkedin.com/in/manish-kumar-mandal" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:manishkumarmandal0021@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://youtube.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=youtube" height="45" />
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,powershell,git,github,netlify" />
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=lightroom,photoshop,oracle,pandas,numpy,nvidia,steam,meta" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Snapseed-4CAF50?style=for-the-badge&logo=googlephotos&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SketchBook-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Manish-kumar-Mandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Manish-kumar-Mandal&theme=dark&hide_border=false" />
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Manish-kumar-Mandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Manish-Kumar-Mandal&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+
+> "Code. Learn. Build. Repeat."
+
+</p>
+
+---
+
+## 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</p>
+
+---
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manish-Kumar-Mandal&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
