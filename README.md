@@ -58,7 +58,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
 
-<a href="https://linkedin.com/in/manish-kumar-mandal" target="blank">
+<a href="https://linkedin.com/in/Manish-kumar-Mandal" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
