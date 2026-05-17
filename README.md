@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://instagram.com/codewithmanishkr" target="_blank">
+<a href="https://instagram.com/codewithmanishkrr" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
