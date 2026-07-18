@@ -117,13 +117,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish-Kumar-Mandal&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Kumar-Mandal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
