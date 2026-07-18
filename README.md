@@ -19,6 +19,10 @@
 </p>
 
 ---
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ONLINE&fontColor=00ff88&fontSize=42&animation=blinking&color=0:000000,100:001100"
+/>
 
 ## 🚀 About Me
 
