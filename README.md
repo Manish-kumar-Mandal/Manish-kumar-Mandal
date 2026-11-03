@@ -123,10 +123,16 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 
 
 
-## 📈 Contribution Graph
+
+<!-- GITHUB CONTRIBUTION CALENDAR -->
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Kumar-Mandal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img
+    src="https://ghchart.rshah.org/00BFFF/Manish-Kumar-Mandal"
+    alt="Manish's GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
 ---
